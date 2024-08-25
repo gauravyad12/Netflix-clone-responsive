@@ -31,5 +31,5 @@ Note -> We have not used any kind of Static Data means if you visit this page af
 
 
 # Deplyement Link
-
+https://gauravyad12.github.io/Netflix-clone-responsive/
 
